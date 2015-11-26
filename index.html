@@ -18,9 +18,9 @@
         <!-- Search Form -->
         <div class="search">
           <h1>Want A Hotel</h1>
-          <input class="searchBox" type="text" placeholder="Price, Name or Place" name="hotel">
+          <input class="searchBox" type="text" placeholder="Price, Name or Place" name="hotel" ng-model="query">
         </div>
-        <div class="hotel" ng-repeat = "hotel in hotels">
+        <div ng-show ="query.length" class="hotel" ng-repeat = "hotel in hotels | filter:query | limitTo : 1">
           <img ng-src="{{hotel.logo}}" alt="Hotel Image">
           <h3 class="title">{{hotel.name}}</h3>
           <p class="description">
