@@ -70,7 +70,8 @@ a{
 
 /** Results **/
 #results{
-
+  display: block;
+  padding-bottom: 200px;
 }
 
 /** Hotel object style **/

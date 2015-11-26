@@ -1,0 +1,38 @@
+[
+  {
+    "name" : "Tasfaout Yassine",
+    "email" : "yassine@tasfaout.com",
+    "reviews" : [
+      {
+          "hotelId" : 1,
+          "review" : "Cool staying"
+      },
+      {
+          "hotelId" : 2,
+          "review" : "Meh, it is nice"
+      },
+      {
+          "hotelId" : 4,
+          "review" : "Very old"
+      },
+    ]
+  },
+  {
+    "name" : "Kazi Abdelsamad",
+    "email" : "sama@gdgtlemcen.org",
+    "reviews" : [
+      {
+          "hotelId" : 1,
+          "review" : "Rellay nice"
+      },
+      {
+          "hotelId" : 2,
+          "review" : "Ohh, i enjoyed my stying"
+      },
+      {
+          "hotelId" : 6,
+          "review" : "Little bit rough"
+      },
+    ]
+  },
+]

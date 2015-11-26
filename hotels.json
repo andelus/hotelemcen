@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Renaissance",
+    "addr": "Plateau Lalla Setti, Tlemcen 13000",
+    "phone": "043 40 11 11",
+    "logo": "img/hotels/rens.jpg",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "stars": 4,
+    "price": 200
+  },
+  {
+    "id": 2,
+    "name": "Ibis",
+    "addr": "Boulevard El Kiffane, Wilaya de Tlemcen, Tlemcen 13000",
+    "phone": "043 98 10 10",
+    "logo": "img/hotels/ibis.png",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "stars": 3,
+    "price": 55
+  },
+  {
+    "id": 3,
+    "name": "Stambouli",
+    "addr": "Rue Ibn Khaldoun, Tlemcen",
+    "phone": null,
+    "logo": "img/hotels/stam.jpg",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "stars": 3,
+    "price": 50
+  },
+  {
+    "id": 4,
+    "name": "Les Zianides",
+    "addr": "Tlemcen",
+    "phone": null,
+    "logo": "img/hotels/zian.jpg",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "stars": 3,
+    "price": 60
+  },
+  {
+    "id": 5,
+    "name": "RESIDENCE POMARIA",
+    "addr": "N° 107 , Route de Sabra Mansourah, Tlemcen 13000",
+    "phone": "040 91 11 12",
+    "logo": "img/hotels/resi.gif",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "stars": 4,
+    "price": 120
+  },
+  {
+    "id": 6,
+    "name": "Agadir",
+    "addr": "Tlemcen",
+    "phone": null,
+    "logo": "img/hotels/agad.png",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "stars": 3,
+    "price": 40
+  },
+  {
+    "id": 7,
+    "name": "Orient Palace",
+    "addr": "N7, Tlemcen",
+    "phone": "043 28 13 36",
+    "logo": "img/hotels/orie.png",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "stars": 3,
+    "price": 50
+  },
+
+]
