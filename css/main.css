@@ -1,0 +1,125 @@
+/** Open Sans Font **/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+html,
+body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+  color:#07203F;
+}
+.container{
+  position: relative;
+  width : 1200px;
+  min-height:100%;
+  margin: 0 auto;
+}
+
+/** Typography Style **/
+h1{
+  font-size: 2.2em;
+  color:#EF4A25;
+  text-align: center;
+}
+h3{
+  font-size:1.8em;
+
+}
+p{
+  font-weight: bold;
+}
+a{
+  text-decoration: none;
+  font-weight: bold;
+  color:#7F8A97;
+}
+/*** Header Style ***/
+.branding img{
+  padding:10px;
+  width:20%;
+  max-width: 300px;
+}
+/** Search a Hotel **/
+.search{
+
+}
+.searchBox{
+  width:100%;
+  height: 60px;
+  color:#7F8A97;
+  font-size: 3em;
+  padding-left: 10px;
+  border: 3px solid #7F8A97;
+  outline: 0;
+}
+.searchBox:focus{
+  border: 3px solid #EF4A25;
+}
+/** Placeholder **/
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    opacity: 0.5;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  opacity: 0.5;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  opacity: 0.5;
+}
+
+/** Results **/
+#results{
+
+}
+
+/** Hotel object style **/
+.hotel{
+margin-top: 20px;
+
+}
+.hotel img{
+  display: block;
+  margin: 0 auto;
+}
+.title{
+  margin: 0;
+}
+.checkout{
+  border: none;
+  background-color: #7F8A97;
+  width:100px;
+  height: 50px;
+  color:#fff;
+  font-size: 1rem;
+}
+.checkout:hover{
+  background-color: #EF4A25;
+  cursor: pointer;
+}
+
+footer{
+  width:100%;
+  height:100px;
+  position:absolute;
+  bottom:0;
+  left:0;
+  background-color:#07203F;
+  text-align: center;
+}
+/** Social Icons **/
+.infos{
+  margin-top: 35px;
+}
+.social li{
+  display: inline;
+  list-style: none;
+
+}
+.social a{
+  font-size: 1.5rem;
+  color:#fff;
+}
+.social a:hover{
+  color:#EF4A25;
+}

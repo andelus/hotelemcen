@@ -1,0 +1,11 @@
+###IGNORE OS GENERATED FILES###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trahses
+ehthumb.db
+Thumbs.db
+*.sass-cach*
+*.log
+node_modules/

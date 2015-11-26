@@ -1,0 +1,28 @@
+{
+  "name": "hotelemcen",
+  "version": "0.0.1",
+  "description": "This an app made in the GDG Devfest Tlemcen Algeria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andelus/hotelemcen.git"
+  },
+  "keywords": [
+    "Tlemcen",
+    "GDG",
+    "Algeria",
+    "AngularJs"
+  ],
+  "author": "Tasfaout Yassine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andelus/hotelemcen/issues"
+  },
+  "homepage": "https://github.com/andelus/hotelemcen#readme",
+  "dependencies": {
+    "angular": "^1.4.8"
+  }
+}
