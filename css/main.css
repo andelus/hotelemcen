@@ -82,6 +82,7 @@ margin-top: 20px;
 .hotel img{
   display: block;
   margin: 0 auto;
+	max-width: 200px;
 }
 .title{
   margin: 0;
