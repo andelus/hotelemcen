@@ -76,7 +76,7 @@ a{
 
 /** Hotel object style **/
 .hotel{
-margin-top: 20px;
+	margin-top: 20px;
 
 }
 .hotel img{
@@ -128,3 +128,14 @@ footer{
 .social a:hover{
   color:#EF4A25;
 }
+
+/** Hotel page **/
+.addr{
+	float: right;
+	border: 2px solid #7F8A97;
+	padding: 5px;
+}
+.addr address{
+	font-weight: bold;
+}
+/** Review Text **/

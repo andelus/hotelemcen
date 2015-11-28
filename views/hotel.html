@@ -1,0 +1,24 @@
+<section id="results">
+
+  <div class="hotel" >
+    <img ng-src="{{hotel.logo}}" alt="Hotel Image">
+    <h3 class="title">{{hotel.name}}</h3>
+    <p class="description">{{hotel.desc}}</p>
+    <a class="checkout" href="#/"><span class="fa fa-sign-in"></span> Book</a>
+  </div>
+  <div class="addr">
+    <address>
+      Address : {{hotel.addr}}
+    </br>
+      Phone : {{hotel.phone}}
+    </address>
+  </div>
+  <a href="#/"> &lt Back</a>
+  <hr>
+  <h3>Comments</h3>
+  <div class="reviews" ng-repeat="item in reviews.comments">
+    <div class="user">
+      <p class="comment">{{item.review}}</p>
+    </div>
+  </div>
+</section>

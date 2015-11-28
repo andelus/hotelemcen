@@ -1,7 +1,9 @@
 [
   {
-    "name" : "Tasfaout Yassine",
-    "email" : "yassine@tasfaout.com",
+    "user": {
+          "name" : "Tasfaout Yassine",
+          "email" : "yassine@tasfaout.com"
+      },
     "reviews" : [
       {
           "hotelId" : 1,
@@ -14,12 +16,14 @@
       {
           "hotelId" : 4,
           "review" : "Very old"
-      },
+      }
     ]
   },
   {
-    "name" : "Kazi Abdelsamad",
-    "email" : "sama@gdgtlemcen.org",
+    "user" : {
+        "name" : "Kazi Abdelsamad",
+        "email" : "sama@gdgtlemcen.org"
+    },
     "reviews" : [
       {
           "hotelId" : 1,
@@ -32,7 +36,7 @@
       {
           "hotelId" : 6,
           "review" : "Little bit rough"
-      },
+      }
     ]
-  },
+  }
 ]

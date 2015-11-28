@@ -4,30 +4,19 @@
     <meta charset="utf-8">
     <title>Hotels In Tlemcen</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
     <link rel="stylesheet" href="css/main.css" media="screen" title="no title" charset="utf-8">
+
   </head>
   <body >
     <div class="container">
       <header>
         <div class="branding">
-          <img src="img/logo.png" alt="Hotels In Tlemcen">
+          <a href="http://localhost/hotelemcen"><img src="img/logo.png" alt="Hotels In Tlemcen"></a>
         </div>
       </header>
-      <!-- Results -->
-      <section id="results" ng-controller = "getHotels">
-        <!-- Search Form -->
-        <div class="search">
-          <h1>Want A Hotel</h1>
-          <input class="searchBox" type="text" placeholder="Price, Name or Place" name="hotel" ng-model="query">
-        </div>
-        <div ng-show ="query.length" class="hotel" ng-repeat = "hotel in hotels | filter:query">
-          <img ng-src="{{hotel.logo}}" alt="Hotel Image">
-          <h3 class="title">{{hotel.name}}</h3>
-          <p class="description">{{hotel.desc}}</p>
-            <a class="checkout"><span class="fa fa-sign-in"></span> Book</a>
-        </div>
-      </section>
 
+      <div ng-view ></div>
 
 
 
